@@ -1,0 +1,19 @@
+                        ___  _ __                 __   _
+                       / _ \(_) /___ _____  ___  / /  (_)__
+                      / ___/ / __/ // / _ \/ _ \/ _ \/ (_-<
+                     /_/  /_/\__/\_,_/\___/ .__/_//_/_/___/
+                                         /_/
+
+PROJECT: Pituophis
+MAINTAINER: dotcomboom (dotcomboom@somnolescent.net)
+
+Pituophis is a full Gopher library written in Python 3. Powerful and flexible,
+Pituophis can request and parse data over the Gopher protocol or serve it out
+if desired. It supports Gopher over TLS, arbitrary ports, gophermap parsing,
+Bucktooth-like globbing, type guessing, and gophertags, and requires minimal
+dependencies. Somnolescent's Gopher server is powered by Pituophis.
+
+To demonstrate its client capabilities, TreeGopher is packed in with recent
+versions of Pituophis. TreeGopher also acts as a proof of concept for dcb's
+ideal Gopher client, featuring such things as a tree view and inline display
+of text and images.

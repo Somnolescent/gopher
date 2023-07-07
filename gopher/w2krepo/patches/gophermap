@@ -1,0 +1,27 @@
+1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
+1< Back to w2krepo	../
+
+w2krepo on Gopher
+Patches and Updates
+--------------------------------------------------------------
+9Universal ATA Driver	BusMaster_v47a.rar
+9Internet Explorer 6 SP1 Update	IE6.0SP1-KB2722913-WINDOWS2000-X86-ENU.EXE
+5Internet Explorer 6	ie6for2k.zip
+9Root Certificates Update	rootsupd.exe
+9BITS 2.0 and WinHTTP 5.1 Update info	Windows2000-KB842773-x86-ENU.EXE
+9Windows 2000 Update Rollup 1 info	windows2000-kb891861-x86-enu.exe
+9Windows Installer 3.1 info	WindowsInstaller-KB893803-v2-x86.exe
+9Windows Update Agent 3.0	wua30x86.exe
+
+Files in this repo available over HTTP only:
+hDirectX Runtime June 2010 Redistributable	URL:http://w2krepo.somnolescent.net/Patches%20and%20Updates/directx_Jun2010_redist.exe
+hDirectX 9	URL:http://w2krepo.somnolescent.net/Patches%20and%20Updates/dx9c0210.EXE
+hWindows 2000 Unofficial Service Pack 5.1	URL:http://w2krepo.somnolescent.net/Patches%20and%20Updates/usp51.zip
+hWindows 2000 Unofficial Update Rollup + Extended Kernel	URL:http://w2krepo.somnolescent.net/Patches%20and%20Updates/Windows2000-UURollup-v11-d20141130-x86-ENU.7z
+
+If you are installing the Extended Kernel/UURollup, it's highly
+recommended to install the Unofficial Service Pack 5.1
+(usp51.zip) first. Not doing so may break Internet Explorer.
+
+(If you do install the UURollup first accidentally, don't panic;
+installing the USP will fix it.)

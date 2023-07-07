@@ -1,0 +1,90 @@
+Pituophis version history:
+
+1.1 (May 16, 2020):
+This release contains breaking API changes- take caution when updating.
+   * Selector class has been renamed to Item
+   * Globbing is fixed on Windows
+   * Single Items can now be sent by custom/alt handlers like strings and
+   lists of Items can
+   * URL parsing has been rewritten to adhere to RFC 4266 (including %09 for
+   search queries)
+   * URLs returned by Request().url() do not include :70 if the port is 70
+   (as this is the default port for all Gopher sites); they also do not add
+   "/" to the beginning of selector strings (for Gopher servers that don't
+   necessarily use this filesystem scheme)
+   * error.host is no longer used by default in the path/selector field of
+   new Items (as it could be misinterpreted when looking at menu source code
+   client-side); the field is now blank by default
+   * Plenty of refactoring, tidying and other good things
+   * TreeGopher demo added and readme updates
+
+1.0 (June 12, 2019):
+Default handler:
+   * Globs no longer breaking out of public directory
+   * Markdown files have item type 0 (text) in directory listings instead of
+   the default type 9 (binary)
+
+Client:
+   * parse_url() checks if path ends with a '/' and sets type to 1
+
+0.99 (April 20, 2019):
+This is actually just 0.98 but with a fixed setup.py.
+
+0.98 (April 19, 2019):
+Server:
+   * An advertised port can be set (for handler usage) for when you're
+   rerouting the "advertised" port (like 70) to the actual server port
+   
+Default handler:
+   * Glob sorting (and in turn, sorting of directory listings) now works
+   correctly, and directories are on top of files
+   * Checks if a file with an unknown MIME type is actually a director
+   before giving it that type, otherwise gives it the 9 (generic binary)
+   type; applies to ? pseudotype and globbing
+
+0.97 (March 17, 2019):
+Server:
+   * Listens on any hostname, not just 127.0.0.1. Fixes outside connections,
+   which were previously broken.
+
+
+0.96 (March 13, 2019):
+   * When getting the Request object of a Selector object, the query will be
+   set if that's in the selector's field
+   * urllib is now used for parsing URLs
+   * IPv6 support (wrap IPv6 address in square brackets)
+
+0.95 (March 9, 2019):
+Server:
+   * Fix when serving information selectors from a gophermap
+   * Type guessing, Gopher globbing and gophertags for feature parity with
+   Bucktooth
+   * Globbing is used for directory listings
+
+0.94 (February 18, 2019):
+Default handler:
+   * URL redirect page has a title
+   
+Client:
+   * Extra tabs are now discarded, which means menus with Gopher+ selectors
+   don't absolutely explode (a Good Thing™)
+
+0.93 (February 14, 2019):
+Default handler:
+   * Directory listings now display file size and last modified date
+   * Directory listings now display directory items without crashing
+
+0.92 (February 13, 2019):
+Default handler:
+   * Relative links fixed and converted into real paths
+   * Directories without trailing slash now work correctly
+   * "URL:" requests are now redirected
+
+0.91 (February 12, 2019):
+Default handler:
+   * Quick fix to display the port in parsed gophermaps on TLS connections as
+   5-digit numbers (i.e. making port 105 display as "10105") as this seems to
+   be the accepted S/Gopher way of doing it
+
+0.90 (February 12, 2019):
+The first release!

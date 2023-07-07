@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="icon" href="/images/icon.png" TYPE="image/png">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<link rel="alternate" href="/rss.xml" type="application/xml" title="Astraware RSS Feed">
+<title>Web site error : Astraware</title>
+<meta name="description" content="Quality Palm OS PDA, Pocket PC, Smartphone and Windows games, including Zap!2000 and Bejeweled">
+<meta name="keywords" content="shareware,software,pc,pda,mobile,palm,palmone,palmpilot,sony,handspring,treo,visor,clie,tungsten,zire,pocket pc,jornada,ipaq,dell,axim,motorola,compaq,hp,windows,windows mobile,smartphone,games,fun,pocket,family,kids,children,download,british,uk,united kingdom,quality,astraware,arcade">
+<meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.astraware.com/" r (cz 1 lz 1 nz 1 oz 1 vg 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.astraware.com/" r (n 0 s 0 v 3 l 0))'>
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+<link rel="stylesheet" type="text/css" href="/css/productfinder.css">
+<link rel="stylesheet" type="text/css" href="/sections/home/section.css">
+<script language="JavaScript1.1" type="text/javascript" src="/js/detectflash.js"></script>
+<script language="JavaScript1.1" type="text/javascript" src="/js/imagefader.js"></script>
+</head>
+<body >
+  <div id="headerContainer">
+      <a href="/"><img src="/images/furniture/awlogo-top.gif" id="awLogo" alt="Astraware: play anywhere" /></a>
+      
+      <div class="clubBar"><div>
+      <a href="/club/login.php">Login</a> | <a href="/club/register.php">Register</a>        </div></div>
+      <div class="sectionBar"><a class="clubaw"  href="/club/" title="Club Astraware"><span>Club Astraware</span></a><a href="/shop/basket.php" title="My Cart"><span>My Cart</span></a><a href="/support/" title="Support"><span>Support</span></a><a href="/win/" title="Windows"><span>Windows</span></a><a href="/phones/" title="Phones"><span>Phones</span></a><a href="/ppc/" title="Pocket PC"><span>Pocket PC</span></a><a href="/palm/" title="Palm OS"><span>Palm OS</span></a><a class="sectionSelected"  href="/" title="Home"><span>Home</span></a></div>        
+  </div>
+
+  <div id="container">
+    <a href="#" onClick="toggleFinder()"><img src="/images/furniture/awlogo-btm.gif" id="pfinderButton" alt="Product Finder" /></a>
+
+  <table id="containerTable" cellpadding="0" cellspacing="0" summary="">
+  <tr>
+  <td width="120" valign="top">
+
+   <div class="menuBar">
+    
+   <form action="/search/index.php" method="get">
+   <div id="searchBox"><input id="searchEntry" name="q" size="12" value="Enter search text" onfocus="if (this.value == 'Enter search text') { this.value='' }">
+     <input id="searchSubmit" type="image" name="s" src="/images/furniture/go-button.gif" value="go" alt="Go (search)" style="border: none; vertical-align: top;">
+     <input type="hidden" name="submit" value="1">
+   </div>
+   </form>
+      </div>
+   <div><img src="/images/furniture/container-ctr.gif" alt="" /></div>
+   <div class="menuBar2">
+
+
+  </div>
+  <div><img src="/images/furniture/container2-btm.gif" alt=""></div>
+  </td>
+  <td width="647" valign="top">
+<h1><img src="/images/ladybird-searching.gif" align="right" style="border: none">Page not found</h1><div class="content"><p>We're very sorry, but our web server encountered a problem while
+trying to deliver the page or file you requested.
+This may be because you typed the address in incorrectly (please try again,
+making sure it does not contain capital letters or spaces), or possibly that
+the page or file has been moved or deleted.</p>
+
+<p>Please use your browser's <I>Back</I> button to try again, or you could search
+for what you're looking for:</p>
+
+<div align="center">
+<form action="/search/index.php" method="query">
+<input name="q" size="30" value="Enter search text" onfocus="if (this.value == 'Enter search text') { this.value='' }">
+ <input type="submit" name="s" value=" Search ">
+ <input type="hidden" name="submit" value="1">
+</div>
+
+<p>If that hasn't worked, please email our Support Team at
+<A HREF="mailto:support@astraware.com">support@astraware.com</A>
+to get in touch with us. Thanks!</p>
+<BR>
+
+<h2>Diagnostic information:</h2>
+<!--Error code: <BR>-->
+Error URL: /download/tblaster-palm-v1-0.zip<BR>
+
+<BR><BR>
+
+	</div>
+      </td>
+      <td width="8" id="rightshadow" valign="top"><img src="/images/furniture/top-rt-shadow.gif" alt=""></td>
+    </tr>
+    <tr>
+      <td colspan="3" height="36" id="footerbar">
+<div>
+    <a href="/about/">About Us</a> -
+    <a href="/contact/">Contact Us</a> -
+    <a href="/company/legal.php">Legal Information</a> -
+    <a href="/company/policies.php">Company Policies</a> -
+    <a href="/company/">Company Information</a></div>
+    </td>
+    </tr>  </table>
+
+  </div><!--container-->
+  <div id="copyrightFooter">Copyright &copy; 2005 Astraware Limited. All rights reserved. Prices exclude VAT in the EU. Trademarks belong to their respective owners.</div>
+</body>
+<!--blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah-->

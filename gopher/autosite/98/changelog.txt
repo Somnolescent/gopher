@@ -1,0 +1,8 @@
+AutoSite '98 version history:
+
+1999.4 (April 18, 2019):
+Turns out, when I made the last release I renamed a bunch of stuff but didn't
+change their code counterparts. We good now though~
+
+1998.12 (February 24, 2019):
+h

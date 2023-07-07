@@ -1,0 +1,15 @@
+1< Back to gopher.somnolescent.net	../
+
+Pituophis and Gophew
+Our homebrew Gopher search and serve solution (client too!)
+--------------------------------------------------------------
+0About Pituophis	pituophis.info
+0About Gophew	gophew.info
+
+0Pituophis changelog	pituophis-changelog.txt
+1Pituophis source (BSD 2-Clause License)	src/
+hPituophis on GitHub	URL:https://github.com/dotcomboom/Pituophis
+
+9Gophew	gophew.py
+9Gophew's crawler script	crawler.py
+hGophew on GitHub	URL:https://github.com/dotcomboom/Gophew
