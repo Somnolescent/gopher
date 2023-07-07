@@ -1,8 +1,11 @@
-1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
-1< Back to w2krepo	../
+1<< Back to gopher.somnolescent.net	/
+1< Back to w2krepo	/w2krepo
 
 w2krepo on Gopher
 dotNet Framework
---------------------------------------------------------------
-9.NET Framework 2.0 (98+)	dotnetfx.exe
+----------------------------------------------------------------------
 9.NET Framework 2.0 SP2 (2000+)	NetFx20SP2_x86.exe
+9.NET Framework 2.0 (98+)	dotnetfx.exe
+
+Files in this repo available over HTTP only:
+h.NET Framework 4.0 (XP+)	URL:http://w2krepo.somnolescent.net/dotNet%20Framework/dotNetFx40_Full_x86_x64.exe

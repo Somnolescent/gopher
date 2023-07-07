@@ -4,8 +4,74 @@
 Legend:
 !! - Link-breaking changes/reorganizing
 +  - New file
-.  - Site edit
+.  - Website edit
 -  - Note
+
+7/6/2023
+. Gopher site updated, I've tried to keep paths close to their originals but 
+- no guarantees
+
+6/24/2023
++ Accessories/desktop_architect.zip (Desktop Architect, 1999)
+
++ Audio/eac0.99pb5.exe (Exact Audio Copy 0.99pb5, 2009)
++ XP/eac1.6.exe (Exact Audio Copy 1.6, 2020)
+
++ Networking/Chat/xchat-2.4.4-1.zip (X-Chat 2.4.4-1, 2005)
+
++ XP/CrystalDiskInfo_9_0_1a.zip (CrystalDiskInfo 9.0.1a, 2023)
++ XP/fences_public.zip (Stardock Fences 1.01, 2010)
++ XP/uninstallview.zip (Nirsoft UninstallView 1.50, 2023)
++ XP/RoyTam1 Browser Installer [i430VX].zip (http://i430vx.net/projects/rtbinst.htm)
+
+. Reordered the sidebar again, lol:
+- Accessories, Networking, Audio, Games, Development, Graphics, Virtualization
+
+12/4/2022
+. Changed "Contributions" link in header to "Contribute"
+. Reordered sidebar selections, should be a little more intuitive now
+  - old: Accessories, Graphics, Audio, Games, Networking, Development, Virtualization
+  - new: Accessories, Games, Networking, Audio, Graphics, Virtualization, Development
+. Patches and Updates moved under the main categories
+. Added mention of Legacy Update and Harry's WSUS server to Patches and Updates footer.
+
++ Adobe Flash/shockwave800_205.zip (Shockwave 8 Player, 2000)
++ Networking/Web/OffByOne.zip (The Off By One Browser, 2006)
+
++ Windows XP/Paint.NET_v3.5.4.zip (Paint.NET v3.5.4, 2010)
++ Windows XP/Paint.NET_v3.5.11.zip (Paint.NET v3.5.11, 2013)
+
++ Audio/winamp291_full.zip (Winamp 2.91, 2003)
++ Audio/lame3.99.5_vc6.zip (LAME 3.99.5 for older Win32 OSes, 2012 from rarewares.org)
++ Windows XP/lame3.100.1-win32.zip (LAME 3.100.1, 2020)
++ Windows XP/lame3.100-20200409.zip (LAME 3.100, 2020)
+
+3/18/2022
++ Windows XP/infiniminer-installer-v1.5.exe (Infiniminer v1.5)
++ Windows XP/xnafx30_redist.msi (XNA 3.0 Redistributable, required by Infiniminer)
+
+3/12/2022
++ Accessories/cpuz_w9x.exe (Updated CPU-Z Vintage Edition to 1.03 from 1.01)
+
+3/11/2022
++ Games/ClassiCube1.3.1.exe (ClassiCube 1.3.1 - Minecraft Classic reimplementation; 98+)
++ Accessories/RK_Launcher_04_Beta.zip (Dock-style application launcher)
++ Windows XP/cygwin-2.874-xp.zip (Cygwin 2.874 for XP provided by Cathedral Networks)
++ Windows XP/openssl-1.0.2u-i386-win32.zip (OpenSSL 1.0.21 application dlls)
+
+3/7/2022
+. Styled, added full index
+. Updated pages
++ Accessories/atnsetup.exe (ATnotes 9.5 - sticky notes)
++ Windows XP/ResophNotes170-32.msi (ResophNotes 1.7.0)
++ Development/uxn32-essentials.zip (Uxn emulator for Windows)
+!! Accessories/BeCyIGrab230Eng.exe -> Development/BeCyIGrab230Eng.exe
+!! Accessories/FPXPRESS.7z -> Development/FPXPRESS.zip
+- (moved them back into Development, felt more appropriate there)
+
+1/x/2022
+- Much reorganizing and many additions have happened since that 
+- the changelog has not been updated to accomodate for
 
 9/27/2021
 + Productivity/Semagic1811for2k.exe (Semagic LiveJournal client, NT version)

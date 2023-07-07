@@ -1,13 +1,14 @@
-1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
-1< Back to Windows Mobile	../
+1<< Back to gopher.somnolescent.net	/
+1< Back to w2krepo	/w2krepo
+1Back to Windows Mobile	../
 
 w2krepo on Gopher
-Windows Mobile SDKs
---------------------------------------------------------------
-9Windows CE 5.0 Emulator Installer	Windows CE 5.exe
-9Windows CE 5.0 Emulator Extracted	Windows CE 5 Emulator.zip
+Windows Mobile/SDKs/
+----------------------------------------------------------------------
+5Windows CE 5.0 Emulator	Windows CE 5.0 Emulator.zip
+9Windows CE 5.0 Emulator	Windows CE 5.exe
 
 Files in this repo available over HTTP only:
-hStandard SDK	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/STANDARD_SDK.msi
-hWindows Mobile 5.0 Pocket PC SDK	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/Windows%20Mobile%205.0%20Pocket%20PC%20SDK.msi
-hWindows Mobile 6.5 Standard Developer Tool Kit (USA)	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/Windows%20Mobile%206.5%20Standard%20Developer%20Tool%20Kit%20(USA).msi
+hWindows Mobile Standard SDK	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/STANDARD_SDK.msi
+hWindows CE 5.0 Emulator	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/Windows Mobile 5.0 Pocket PC SDK.msi
+hWindows CE 5.0 Emulator	URL:http://w2krepo.somnolescent.net/Windows%20Mobile/SDKs/Windows Mobile 6.5 Standard Developer Tool Kit (USA).msi

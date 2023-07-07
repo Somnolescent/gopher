@@ -1,16 +1,16 @@
-1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
-1< Back to w2krepo	../
+1<< Back to gopher.somnolescent.net	/
+1< Back to w2krepo	/w2krepo
 
 w2krepo on Gopher
 Adobe Flash
---------------------------------------------------------------
+----------------------------------------------------------------------
 9Flash Player 10	flashplayer10_1r102_64_win.exe
 9Flash Player 10 (ActiveX/IE)	flashplayer10_1r102_64_winax.exe
 9Flash Player 11 Plugin Installer	flashplayer11_1r102_55_win_32bit.msi
 9Flash Player 29	install_flash_player_29.0.0.171.exe
 9Flash Player 29 (ActiveX/IE)	install_flash_player_29.0.0.171_ax.exe
+5Shockwave 8 Player	shockwave800_205.zip
 
-Flash Player 29 requires usp51.zip and
+Flash Player 29 requires usp51.zip and 
 Windows2000-UURollup-v11-d20141130-x86-ENU.7z to be installed.
-
 _ax.exe is the ActiveX (Internet Explorer) version.

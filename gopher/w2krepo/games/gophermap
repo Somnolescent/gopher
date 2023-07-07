@@ -1,11 +1,9 @@
-1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
-1< Back to w2krepo	../
-
-w2krepo on Gopher
-Games
---------------------------------------------------------------
-9Hover! from Windows 95	Hover.7z
-9Maelstrom 0.91 (3D Pinball: Space Cadet prototype)	Maelstrom 0.91.7z
-9Maelstrom 1.00 (3D Pinball: Space Cadet prototype)	Maelstrom 1.00.7z
-93D Pinball: Space Cadet prototype	Space Cadet Preview Version.7z
-9HTML TADS Player Kit 3.1.3/2.5.17	tads_pksetup.exe
+Options All +Indexes
+AddDescription "3D Pinball: Space Cadet <a href=\"https://tcrf.net/Proto:3D_Pinball:_Space_Cadet\">prototype</a>" Maelstrom
+AddDescription "3D Pinball: Space Cadet <a href=\"https://tcrf.net/Proto:3D_Pinball:_Space_Cadet\">prototype</a>" Space Cadet Preview
+AddDescription "Hover! from Windows 95" Hover
+AddDescription "HTML <a href=\"http://tads.org\">TADS</a> Player Kit 3.1.3/2.5.17" tads_pksetup
+AddDescription "Saved off of archive.org. Includes PopCap demos for PC, Palm, and Pocket PC." Astraware
+AddDescription "<a href=\"http://tads.org\">TADS</a> Author's Kit 3.1.3 with Full Documentation" tads3_setupd.exe
+AddDescription "<a href=\"http://tads.org\">TADS</a> Author's Kit 3.1.3" tads3_setup.exe
+AddDescription "ClassiCube 1.3.1" ClassiCube1.3.1.exe
