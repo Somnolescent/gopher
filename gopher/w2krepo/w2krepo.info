@@ -1,0 +1,32 @@
+                        ####   ##
+                       ##  ##  ##
+                       ##  ##  ##
+            ##      ##     ##  ##  ## ####  ####   #####    ####
+            ##  ##  ##    ##   ## ##  ###  ##  ##  ##  ##  ##  ##
+             ## ## ##    ##    ####   ##   ######  ##  ##  ##  ##
+             ## ## ##   ##     ###    ##   ##      ##  ##  ##  ##
+             ########  ##      ####   ##   ##      ##  ##  ##  ##
+              ##  ##   ##      ## ##  ##   ##  ##  ##  ##  ##  ##
+              ##  ##   ######  ##  ## ##    ####   #####    ####
+                                                   ##
+                                                   ##
+                                                   ##
+
+PROJECT: w2krepo on Gopher
+MAINTAINER: dotcomboom (dotcomboom@somnolescent.net)
+
+w2krepo is a software repository serving roughly the 1998-2004 time period.
+While it takes its name from Windows 2000 (and many of its programs are
+picked specifically to run under it), that's not all it caters to--Palm,
+PocketPC, and Windows Mobile software also feature. All downloads are either
+freeware, shareware, demos of commercial software, or abandonware.
+
+This Gopher edition of w2krepo is offered for ease of browsing on older
+machines with Gopher clients. As Gopher doesn't protect against abrupt
+disruptions in the download stream, files over 50mb are not offered over it.
+Instead, links to the software in question on the HTTP version of w2krepo are
+offered on their respective menus. These should work on any PC with a
+functioning web browser.
+
+Any feedback, questions, or donations of software sent to the above email
+address are greatly appreciated.

@@ -1,0 +1,21 @@
+1< Back to gopher.somnolescent.net	../
+
+AutoSite
+Static sites, simplified
+--------------------------------------------------------------
+0About AutoSite	autosite.info
+
+0AutoSite changelog	bin/changelog.txt
+1AutoSite binaries	bin/
+1AutoSite source (MIT License)	src/
+hAutoSite on GitHub	URL:https://github.com/dotcomboom/AutoSite
+
+0Legacy AutoSite changelog	legacy/changelog.txt
+1Legacy AutoSite binaries	legacy/bin/
+1Legacy AutoSite source (Unlicense)	legacy/src/
+hLegacy AutoSite on GitHub	URL:https://github.com/dotcomboom/AutoSite-Legacy
+
+0AutoSite '98 changelog	98/changelog.txt
+1AutoSite '98 binaries	98/bin/
+1AutoSite '98 source (Unlicense)	98/src/
+hAutoSite '98 on GitHub	URL:https://github.com/dotcomboom/AutoSite-98

@@ -1,0 +1,32 @@
+1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
+1< Back to w2krepo	../
+
+w2krepo on Gopher
+Windows Mobile
+--------------------------------------------------------------
+1Windows Mobile SDKs	sdks/
+9ActiveSync 4.5	ActiveSync 4.5.msi
+9EbIRC 1.2 (Non-touchscreen port)	EbIRC_AppOnly_dcb_Standard.CAB
+9Esmertec Jbed, J2ME Java VM	Esmertec Jbed 20090217.5.1R2.cab
+9Mozilla Fennec 1.0a3 (touchscreen)	fennec-1.0a3.en-US.wince-arm.cab
+9Google Maps 4.1.0	GoogleMaps.CAB
+9GPS2Blue (untested)	GPS2Blue.CAB
+9Opera Mini 5.1 for Windows Mobile	mini5wm.cab
+9Opera Mini 5.1 for Windows Mobile 2003 Pocket PC	mini5wm_unpacked.cab
+9.NET Compact Framework 3.5 (Pocket PC armv4)	NETCFv35.ppc.armv4.cab
+9.NET Compact Framework 3.5 (Windows CE armv4)	NETCFv35.wce.armv4.cab
+9.NET Compact Framework 3.5 (Windows CE mipsii)	NETCFv35.wce.mipsii.cab
+9.NET Compact Framework 3.5 (Windows CE mipsiv)	NETCFv35.wce.mipsiv.cab
+9.NET Compact Framework 3.5 (Windows Mobile armv4i)	NETCFv35.wm.armv4i.cab
+9PHM Registry Editor 0.70	PHM_Registry_Editor_0.70.cab
+9PocketIRC (Pocket PC)	PocketIRC.SA.CAB
+5PocketTADS 0.1 TADS 2.5.7 player	PocketTADS-01.zip
+5PocketTADS 0.1 (source code)	PocketTADS-01src.zip
+9Python CE 2.5	PythonCE.WM.CAB
+9Screen Capture 1.1 (untested)	Screen_Capture_1.1.cab
+9Ilium Software Screen Capture 1.2.1018 (PNG, sound)	ScreenCapture-Smartphone-Setup.cab
+9Smart SS 1.1 screen capture tool (BMP, no sound)	Smart_SS_1.1.cab
+9Tomate 1.0.1 (Pomodoro timer)	Tomate101.CAB
+9wmIRC 2.5 for Windows Mobile 5+, touchscreen	wmirc_ppc_wm6.CAB
+9wmIRC 2.5 for Windows Mobile 5+, standard	wmirc_sp_wm6.CAB
+9zsIRC (Pocket PC)	zsIRC_2009_12_26.cab

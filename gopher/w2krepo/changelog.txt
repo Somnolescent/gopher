@@ -1,0 +1,121 @@
+   w2krepo Changelog
+/---------------------\
+
+Legend:
+!! - Link-breaking changes/reorganizing
++  - New file
+.  - Site edit
+-  - Note
+
+9/27/2021
++ Productivity/Semagic1811for2k.exe (Semagic LiveJournal client, NT version)
++ Productivity/Semagic1811for9x.exe (9x version)
+
+7/10/2021
++ Adobe Flash/flashplayer11_1r102_55_win_32bit.msi (Flash Player 11 Plugin Installer)
+
+3/21/2021
++ Audio/K-Lite_Codec_Pack_710_Full.exe (K-Lite Codec Pack 7.10, needs DirectX 9.0c)
+. Description for Patches and Updates/dx9c0210.EXE
+. A couple more sites linked
+
+1/3/2021 ---
+- Happy new year, incoming are a couple things from me.
++ Windows Mobile/EbIRC_AppOnly_dcb_Standard.CAB (EbIRC 1.2 non-touchscreen port)
++ Windows Mobile/Tomate101.CAB (Tomate 1.0.1, pomodoro timer)
+
+12/17/2020 ---
++ Utilities/Everything-1.4.1.1002.x86-Setup.exe (Everything 1.4.1.1002)
+
+11/21/2020 ---
++ Windows Mobile/PythonCE.WM.CAB (Python 2.5 interpreter, can run .py files)
+
+11/14/2020 ---
++ Games/tads_pksetup.exe (HTML TADS Player Kit 3.1.3/2.5.17)
++ Development Tools/tads3_setup.exe (TADS 3 Author's Kit 3.1.3)
++ Development Tools/tads3_setupd.exe (TADS 3 Author's Kit 3.1.3 with Full Documentation)
+
+11/11/2020 ---
++ Development Tools/FPEXPRESS.7z (FrontPage Express 2.0.2.1131)
++ Games/Hover.7z (Hover! from Windows 95)
++ Windows Mobile/PocketTADS-01.zip (TADS text adventure player)
+  + Windows Mobile/PocketTADS-01-src.zip
+
+. Utilities category added
+!! Development Tools/BeCyIGrab230Eng.exe moved to Utilities/BeCyIGrab230Eng.exe
+!! Development Tools/cpuz_w9x.exe moved to Utilities/cpuz_w9x.exe
+!! Development Tools/wireshark-win32-1.2.1.exe moved to Utilities/wireshark-win32-1.2.1.exe
+!! Productivity/Process Monitor 2.8.zip moved to Utilities/Process Monitor 2.8.zip
+!! Productivity/ZoomIt 1.15.zip moved to Utilities/ZoomIt 1.15.zip
+
+11/7/2020 ---
+- Gopher clients sourced from http://www.jumpjet.info/Offbeat-Internet/Gopher/archive.htm
++ Gopher/* with descriptions
+!! Gopher Clients.7z offloaded to http://web.archive.org/web/20201107213632/http://w2krepo.somnolescent.net/Gopher%20Clients.7z as they now are in their own section
+
+11/6/2020 ---
+- HUGE update today, sat down to churn out a lot of stuff.
+- Gopher clients section is coming tomorrow with any luck.
+
+- SITE EDITS:
+. Favicon added
+. Added https://retrosystemsrevival.blogspot.com mention to index page
+
+. Descriptions for.. basically every section other than Windows Media Player skins have been added. A long process, but very worth it.
+
+- NEW STUFF:
++ /Adobe Flash/flashplayer10_1r102_64_win.exe (Flash Player 10)
++ /Adobe Flash/flashplayer10_1r102_64_winax.exe (Flash Player 10, ActiveX)
+
+- 3D Pinball: Space Cadet Prototypes:
++ /Games/Maelstrom 0.91.7z
++ /Games/Maelstrom 1.00.7z
++ /Games/Maelstrom Space Cadet Preview Version.7z
+- Sourced from https://tcrf.net/Proto:3D_Pinball:_Space_Cadet (Particularly, Wack0)
+
+- REMOVALS (press f):
+!! Seemingly broken RetroArch build offloaded to the Wayback Machine at http://web.archive.org/web/20201106235149/http://w2krepo.somnolescent.net/Games%20and%20Emulators/RetroArch-1.7.6-msvc2003-x86-setup.exe
+
+!! KB835732 offloaded to the Wayback Machine at http://web.archive.org/web/20201107030645/http://w2krepo.somnolescent.net/Patches%20and%20Updates/windows2000-kb835732-x86-enu_7b7d1dffd9347af2c166bfcecc4782c.exe, as it is included already in the Update Rollup 1
+
+- REORGANIZING:
+!! /Development Tools/Windows CE, Mobile SDKs/ moved to /Windows Mobile/SDKs/
+!! /Windows Mobile/SDKs/ActiveSync 4.5.msi moved to /Windows Mobile/ActiveSync 4.5.msi
+
+!! /Patches and Updates/W2KSP4_EN (Service Pack 4).EXE renamed to /Patches and Updates/W2KSP4_EN.EXE
+!! /Patches and Updates/windows2000-kb891861-x86-enu (Update Rollup 1).exe renamed to /Patches and Updates/windows2000-kb891861-x86-enu.exe
+!! /Patches and Updates/Windows2000-UURollup-v11-d20141130-x86-ENU (Extended Kernel).7z renamed to /Patches and Updates/Windows2000-UURollup-v11-d20141130-x86-ENU.7z
+- These changes were made with the presence of the new descriptions.
+
+11/2/2020 ---
++ /Imagery/licecap128-install.exe (LICEcap 1.28 GIF recorder)
+
+11/1/2020 ---
++ /Windows Mobile/ScreenCapture-Smartphone-Setup.cab (Ilium Software Screen Capture 1.2.1018)
++ /Windows Mobile/PHM_Registry_Editor_0.70.cab (PHM Registry Editor 0.70)
+- Sourced from https://forum.xda-developers.com/showthread.php?t=1452228 where there's more to sift through
+
+10/31/2020 ---
+- Happy Halloween!
+!! Renamed /Windows Mobile/1421585986_Screen_Capture_1.1.cab to /Windows Mobile/Screen_Capture_1.1.cab
+!! Renamed /Windows Mobile/1428568446_Smart_SS_1.1.cab to /Windows Mobile/Smart_SS_1.1.cab
++ /Windows Mobile/wmirc_ppc_wm6.CAB (wmIRC, Pocket PC version)
++ /Windows Mobile/Esmertec Jbed 20090217.5.1R2.cab (Esmertec Jbed JVM, for running mobile Java apps)
+
+10/28/2020 ---
+. Updated Gopher section on index to recommend RetroZilla
+
+10/26/2020 ---
+. Windows Mobile section now has file descriptions! Planning to roll these out gradually across the archive.
++ /Windows Mobile/GoogleMaps.cab (Google Maps 4.1.0 from 2010; still works! Sourced from freewarepocketpc.net)
++ /Windows Mobile/mini5wm_unpacked.cab (Opera Mini 5.1 for Windows Mobile 2003 Pocket PC from m.opera.com)
+
+10/25/2020 ---
++ /Imagery/FSCaptureSetup53.exe (FastStone Capture, screencap tool)
++ /Productivity/SumatraPDF-0.9.4-install.exe (pdf reader)
+
+9/25/2020 ---
+!! Terragen 0.9.43 moved from /Terragen/tginstall0943.msi to /Imagery/terrageninstall0943.msi
+!! Netscape folder wholly moved from /Netscape/ to /Web Browsers/Netscape/
+. Submission Center now linked properly, only took a month or two nbd
+. Changelog created (long overdue)
