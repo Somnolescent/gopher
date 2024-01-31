@@ -1,62 +1,75 @@
 1< Back to gopher.somnolescent.net	../
 
-w2krepo on Gopher
-Software to bring your Windows 2000 PC to life
---------------------------------------------------------------
+==== W2KREPO ON GOPHER ================================================
+0About w2krepo on Gopher (for non-compliant clients)	w2krepo.info
 
-0About w2krepo on Gopher	w2krepo.info
+w2krepo is a software repository serving roughly the 1998-2004 time
+period. While it takes its name from Windows 2000 (and many of its
+programs are picked specifically to run under it), that's not all it
+caters to--Palm, PocketPC, and Windows Mobile software also feature.
+All downloads are either freeware, shareware, demos of commercial
+software, or abandonware.
+
+This Gopher edition of w2krepo is offered for ease of browsing on older
+machines with Gopher clients. As Gopher doesn't protect against abrupt
+disruptions in the download stream, files over 50MB are not offered
+over it. Instead, links to the software in question on the HTTP version
+of w2krepo are offered on their respective menus. These should work on
+any PC with a functioning web browser.
+
+Any feedback, questions, or donations of software sent to the
+submission center are greatly appreciated.
+
 0w2krepo Changelog	changelog.txt
 hw2krepo on the Web	URL:http://w2krepo.somnolescent.net/
 hSubmission Center (HTTP)	URL:http://w2krepo.somnolescent.net/Submissions/
 
-1Adobe Flash	flash/
-Versions of Adobe's Flash browser plugin.
-1Archivers	archivers/
-Extract zip, rar and 7z files.
-1Astraware	astraware/
-Saved off of archive.org. Includes PopCap demos for PC, Palm,
-and Pocket PC.
+==== CATEGORIES =======================================================
+1Accessories	accessories/
+Utilities, productivity gadgets, and stuff that doesn't fit elsewhere.
+1Networking	networking/
+All manners of programs for navigating the internet.
 1Audio	audio/
 Programs for playing and mixing music.
+1Games	games/
+Have a break!
 1Development Tools	dev/
 More nitty-gritty applications for development and the such.
+1Graphics	graphics/
+Software that deals with image viewing and editing.
+1Virtualization	virtualization/
+Tools for VM guests (and hosts).
+
+1Patches and Updates	patches/
+A good place to start as any. Get (relatively) up to date. Kernel
+extensions allow Windows 2000 to run later programs.
+
+1Windows Media Player	wmp/
+Visualizations, skins, and add-ins for Windows Media Player.
+1Adobe Flash	flash/
+Versions of Adobe's Flash browser plugin.
 1dotNet Framework	dotnet/
 Run programs developed in VB.NET and C# that target .NET
 Framework 2.0.
-1FTP	ftp/
-Transfer files between machines and servers.
-1Games	games/
-Have a break!
-1Gopher Clients	gopher/
-Gopher clients of various makes and ages.
-1IRC and Chat Clients	irc/
-AIM, mIRC and assorted goodies.
-1Imagery	imagery/
-Software that deals with image viewing and editing.
-1Palm	palm/
-Palm Desktop and applications for Palm devices.
-1Patches and Updates	patches/
-A good place to start as any. Get (relatively) up to date.
-Kernel extensions allow Windows 2000 to run later programs.
-1Productivity	productivity/
-Programs for getting stuff done.
-1Utilities	utilities/
-Helpful tools for your system.
-1Virtualization	virtualization/
-Tools for VM guests (and hosts).
-1Web Browsers	web-browsers/
-More comfortable web browsing than Internet Explorer 6.
-1Windows Media Player	wmp/
-Visualizations, skins, and add-ins for Windows Media Player.
+
+1Windows XP	windows-xp/
+Software useful for mid-era NT machines running XP and Vista.
 1Windows Mobile	windows-mobile/
 Software useful for Windows Mobile and Pocket PC devices.
+1Palm	palm/
+Palm Desktop and applications for Palm devices.
+1Astraware	astraware/
+Saved off of the Internet Archive. Includes PopCap demos for PC, Palm,
+and Pocket PC.
 
-Other helpful repositories:
+==== OTHER HELPFUL REPOSITORIES (ALL HTTP) ============================
 hsdfox7.com	URL:http://sdfox7.com/2000
 hWinWorld (modern browsers only)	URL:http://winworldpc.com/
 hPalmDB Lite	URL:http://lite.palmdb.net/file/
-hwindows-media-player.com (versions and more)	URL:https://www.windows-media-player.com/
+hwindows-media-player.com (versions and more)	URL:http://www.windows-media-player.com/
 hMacintosh Garden (for Mac software)	URL:http://macintoshgarden.org/
-hOperating System Revival (many modern apps backported to 2000)	URL:https://retrosystemsrevival.blogspot.com/
+hOperating System Revival (many modern apps backported to 2000)	URL:http://retrosystemsrevival.blogspot.com/
 hsoggi's BIOS & Firmware Page (several tools and things you may want)	URL:http://soggi.org/tools
 hWindows 2000 files on i430vx's site	URL:http://i430vx.net/files/Win2k/
+hWindows 3.x Resources	URL:http://conradshome.com/win31/
+hDanika Sidoti's Windows 2000 Support Page	URL:http://danika.jukor.net/win2000.html

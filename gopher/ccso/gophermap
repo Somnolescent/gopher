@@ -1,0 +1,131 @@
+1< Back to gopher.somnolescent.net	../
+
+==== SOMNOLCCSO =======================================================
+0About SomnolCCSO (for non-compliant clients)	somnolccso.info
+2Use SomnolCCSO!	/	gopher.somnolescent.net	105
+
+CCSO is an old (we're talking developed in the late 80s) database
+search protocol. It was most often used to look up the contact
+information of professors and staff at universities in the early 90s.
+You can imagine it's well obscure now; only about eight CCSO servers,
+still mostly universities, are in operation today.
+
+Gopher has remarkable integration with CCSO. There's a dedicated
+itemtype in menus for doing CCSO lookups, so you can search for things
+through CCSO from a Gopher menu without leaving the server. Neat!
+
+You can now count Somnolescent as running one of those less than a
+dozen CCSO servers. Using a homespun Python server script, with any
+CCSO-capable Gopher client, you can access our vast database of who's-
+who in Somnolescent, people, character, or thoughtform. This menu
+provides some instructions on how to make use of it.
+
+==== I'M NOT A NERD. GIVE ME THE SHORT VERSION. =======================
+Lies, you're on Gopher. You'll need a Gopher client capable of handling
+CCSO searches. Lynx is the most user-friendly. Grab the Windows version
+here or use your terminal (sudo apt install lynx if necessary) if
+you're using a *nix:
+hLynx Win32 installers (HTTP)	URL:http://invisible-island.net/lynx/
+
+Go back to this menu with the G key and then select the "Use
+SomnolCCSO!" selector at the top of it.
+
+From there, you can do searches based on name, species, home universe,
+or group affiliation (Somnolescent, guilds in Pinede, subgroups of
+characters in Pennyverse, and so on).
+
+If you are a nerd, I will go on...
+
+==== ACCESSING SOMNOLCCSO =============================================
+Owing to its obscurity, many Gopher clients do not support CCSO. They
+won't know what to do with the itemtype, or (in the case of both the
+Floodgap and Meulie proxies) will explicitly tell you CCSO searches are
+not supported. You'll need a capable client in order to use SomnolCCSO.
+
+The easiest way to access CCSO at the moment is through Lynx. The
+browser has full CCSO support and will even give you a nice UI of all
+the fields you can search right in front of you. Lynx is usually
+installed on Linux by default, but if not, you can use apt to get it.
+Windows users can find builds on the following site or through Cygwin:
+hLynx Win32 installers (HTTP)	URL:http://invisible-island.net/lynx/
+hCygwin (HTTP)	URL:http://www.cygwin.com
+
+Most CCSO-capable clients aren't as nice and will require you to punch
+in a proper CCSO query. These aren't hard! Don't be afraid--we'll
+explain those in the next section. These include older browsers like
+Netscape and Mosaic, which send all entered text as query commands, a
+quirk I'll talk about in the next section.
+
+Finally, telnet can access CCSO, if you want something raw and dirty.
+telnet can use all available CCSO commands.
+
+The server can be found at gopher.somnolescent.net:105, or you can use
+the selector at the top of the menu.
+
+==== CCSO COMMANDS AND QUERIES ========================================
+CCSO is based around a few basic commands. SomnolCCSO supports a subset
+of these, as the rest were meant for authentication (which we don't
+use) or setting server information (we do everything on the backend).
+
+The query command is how you look up people in our database. It takes
+a field, which is what you're searching by, and then the bit to look
+up in that field. Queries look like this:
+
+query affiliation="somnolian" return all
+query name="cammy" return all
+query universe="pennyverse" return all
+
+"affiliation" is the field, and "somnolian" is the search term.
+
+Most clients, like the aforementioned Netscape and NCSA Mosaic, will
+send everything you type as a query command. In other words, you'll
+only be able to send queries to the CCSO server (which is fine, this
+is what you want mostly). In this case, you just need to type in:
+
+affiliation="somnolian"
+
+SomnolCCSO appends the "return all" if you don't specify what fields to
+return. If you do want to specify specific fields to return, you'd just
+type their names in instead of "all". So if you wanted to get just the
+names and Discord usernames of all the Somnolians who have elected to
+publish them, you'd type in:
+
+affiliation="somnolian" return name discord
+
+Do note that, although CCSO canonically supports wildcard searches a la
+regex, SomnolCCSO does not. It might in the future, but that wigs me
+out at the moment. Maybe if the SomnolCCSO server script becomes a
+serious CCSO server for others to use, we'll implement that. Sorry!
+
+If you're using telnet or a client that lets you send raw CCSO
+commands, here's the other commands you can use with our server.
+
+siteinfo: Returns some information about the server, where to learn
+more about it, and who to contact if something isn't quite right.
+
+status: Returns the server status, namely the server version and the
+database status.
+
+fields: Lists all of the fields you can search or filter by.
+Results from the fields command look like this:
+
+-200:1:name max 64 Indexed Lookup Always Default
+
+"max 64" means the maximum number of characters for that field in a
+search. "Indexed Lookup" means you can search by that field. "Always"
+means the field will be returned regardless of what you search (so
+you don't confuse yourself by lack of names). "Default" means you can
+choose to return or not return that field using the "return [field]"
+phrase at the end of a query.
+
+==== BUT WHY??????? WHO CARES??????? YOU SMELL????????????? ===========
+CCSO is old and obscure and that's fun. There's less than ten CCSO
+servers still in existence. I've wanted one for years. I had a neat
+idea for how to use one. It integrates well with Gopher. I just
+showered today.
+
+If you want more information on the structure of the CCSO protocol
+(maybe to build support for it into your Gopher client? A boy can
+dream, anyway), here's a mirror of RFC2378, which codifies how a CCSO
+server works in practice:
+0RFC2378: The CCSO Nameserver (Ph) Architecture	rfc2378.txt

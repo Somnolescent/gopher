@@ -1,0 +1,34 @@
+                           _    ____   ___  _   _ _____
+                          / \  | __ ) / _ \| | | |_   _|
+                         / _ \ |  _ \| | | | | | | | |
+                        / ___ \| |_) | |_| | |_| | | |
+                       /_/   \_\____/ \___/ \___/  |_|
+
+                    _   _   _ _____ ___  ____ ___ _____ _____
+                   / \ | | | |_   _/ _ \/ ___|_ _|_   _| ____|
+                  / _ \| | | | | || | | \___ \| |  | | |  _|
+                 / ___ \ |_| | | || |_| |___) | |  | | | |___
+                /_/   \_\___/  |_| \___/|____/___| |_| |_____|
+
+===============================================================================
+
+AutoSite is dotcomboom's Visual Basic static site generator. The theory goes
+that you build a page's layout a single time and use that page as a template
+for further pages beyond that, with what actually changes page-to-page (title,
+metadata, text content) being all you need to write. This keeps each page
+consistent, with much less room for error and far less effort needed to
+correct layout glitches.
+
+AutoSite consists of two main parts, the building engine known as Apricot,
+and the optional front-end for managing and editing site pages. Variables and
+conditional text provide further control over the rendered page, and as many
+templates as needed can be used in the case of a more complex site. AutoSite
+is used on many sites featured around Somnolescent's network and is extremely
+powerful and simple to use. As of August 2021, AutoSite has gone gold and a
+full users manual (which is mirrored here) is included with the program.
+
+This menu links to binaries and version history for AutoSite, AutoSite Legacy
+(a Python script) and AutoSite '98, the static site generator of the next
+millenium from Bulb Microcomputer Software Inc. and written in Visual Basic 6.
+(Many of the creature comforts of later versions of AutoSite, like multiple
+template support, were not yet introduced, so caution when using it.)

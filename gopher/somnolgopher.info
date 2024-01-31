@@ -1,0 +1,51 @@
+                           _    ____   ___  _   _ _____
+                          / \  | __ ) / _ \| | | |_   _|
+                         / _ \ |  _ \| | | | | | | | |
+                        / ___ \| |_) | |_| | |_| | | |
+                       /_/   \_\____/ \___/ \___/  |_|
+
+   ____   ___  __  __ _   _  ___  _     _____ ____   ____ _____ _   _ _____
+  / ___| / _ \|  \/  | \ | |/ _ \| |   | ____/ ___| / ___| ____| \ | |_   _|
+  \___ \| | | | |\/| |  \| | | | | |   |  _| \___ \| |   |  _| |  \| | | |(_)
+   ___) | |_| | |  | | |\  | |_| | |___| |___ ___) | |___| |___| |\  | | | _
+  |____/ \___/|_|  |_|_| \_|\___/|_____|_____|____/ \____|_____|_| \_| |_|(_)
+
+  ____  _   _ ____ _____ _____ ____  ____      _    _   _ _____    _    _   _
+ / ___|| | | | __ )_   _| ____|  _ \|  _ \    / \  | \ | | ____|  / \  | \ | |
+ \___ \| | | |  _ \ | | |  _| | |_) | |_) |  / _ \ |  \| |  _|   / _ \ |  \| |
+  ___) | |_| | |_) || | | |___|  _ <|  _ <  / ___ \| |\  | |___ / ___ \| |\  |
+ |____/ \___/|____/ |_| |_____|_| \_\_| \_\/_/   \_\_| \_|_____/_/   \_\_| \_|
+===============================================================================
+
+Somnolescent is a collective of artists, musicians, writers, coders, and the
+anxious who chase creation as its own end. This is one of our outposts, deep
+underground in the tunnels of endless Gopherspace.
+
+We maintain this server as a low-overhead way for retro machines, mobile
+devices, and the curious to browse our hoards. If you'd like something a bit
+more visual, do check us out at our websites at http://somnolescent.net/.
+
+As of January 2024, this place has recently been redesigned to be more
+appealing to browse and less arbitrarily structured. We hope to keep things
+much more up-to-date this time around, though again, use the above link if
+you want to be on the bleeding edge of Somnol content.
+
+A WORD ABOUT THE "(FOR NON-COMPLIANT CLIENTS)" FILES
+===============================================================================
+These descriptive text files have been provided throughout the server for
+Gopher clients that don't render informational selectors, or text in menus.
+You'll be able to use our server and mostly understand what's going on with one
+of these clients, but you won't see all the flavor text. We recommend
+OverbiteFF (for Pale Moon and Firefox forks that still support XPI add-ons),
+RetroZilla or Lynx (for a browser with Gopher support built-in), or Gophie (for
+a standalone client) for optimal browsing of our Gopher server.
+
+OverbiteFF: http://gopher.floodgap.com/overbite/
+RetroZilla: http://rn10950.github.io/RetroZillaWeb/
+Gophie: http://gophie.org
+
+Lynx is likely already installed on your machine if you're running Linux. If
+not, grab it with apt. If you're on Windows without WSL, you can get Lynx
+builds through Cygwin or through invisible-island.net, who maintains it:
+http://www.cygwin.com
+http://invisible-island.net/lynx/

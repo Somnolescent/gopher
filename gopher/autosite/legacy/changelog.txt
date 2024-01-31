@@ -1,5 +1,0 @@
-Legacy AutoSite version history:
-
-1.3 (October 20, 2019):
-This is a Python 3 parity release that adds CommonMark support and template
-caching.

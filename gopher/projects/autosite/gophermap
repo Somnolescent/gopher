@@ -1,0 +1,55 @@
+1< Back to gopher.somnolescent.net	../../
+
+==== AUTOSITE =========================================================
+0About AutoSite (for non-compliant clients)	autosite.info
+
+AutoSite is dotcomboom's Visual Basic static site generator. The theory
+goes that you build a page's layout a single time and use that page as
+a template for further pages beyond that, with what actually changes
+page-to-page (title, metadata, text content) being all you need to
+write. This keeps each page consistent, with much less room for error
+and far less effort needed to correct layout glitches.
+
+AutoSite consists of two main parts, the building engine known as
+Apricot, and the optional front-end for managing and editing site
+pages. Variables and conditional text provide further control over the
+rendered page, and as many templates as needed can be used in the case
+of a more complex site. AutoSite is used on many sites featured around
+Somnolescent's network and is extremely powerful and simple to use. As
+of August 2021, AutoSite has gone gold and a full users manual (which
+is mirrored here) is included with the program.
+
+==== AUTOSITE (LATEST VERSION 1.0 GOLD) ===============================
+AutoSite (formerly AutoSite XL) is the main version of the program,
+written in Visual Basic .NET and Winforms. It should run well on very
+old PCs (Windows 98 or later on any Pentium-class machine) and under
+Wine. A command-line version named AutoSite Core that you can invoke
+from a script is included. See the linked manual for further details.
+
+0AutoSite changelog	changelog.txt
+1AutoSite binaries	bin/
+1AutoSite source (MIT License)	src/
+hAutoSite on GitHub (HTTP)	URL:http://github.com/dotcomboom/AutoSite
+hAutoSite manual (HTTP)	URL:http://autosite.somnolescent.net/manual/
+
+==== AUTOSITE LEGACY (LATEST VERSION 1.4) =============================
+AutoSite Legacy is written in Python and thus will run natively cross-
+platform. Recent (~2024) updates have brought it up to feature parity
+with main AutoSite and its Apricot building engine.
+
+0AutoSite Legacy changelog	legacy/changelog.txt
+1AutoSite Legacy binaries	legacy/bin/
+1AutoSite Legacy source (Unlicense)	legacy/src/
+hAutoSite Legacy on GitHub	URL:http://github.com/dotcomboom/AutoSite-Legacy
+hAutoSite Legacy manual (HTTP)	URL:http://archives.somnolescent.net/web/autosite_legacy/
+
+==== AUTOSITE '98 (LATEST VERSION 1999.12) ============================
+The static site generator of the next millennium! Written by Bulb
+Microcomputer Software Inc. in Visual Basic 6, many of the creature
+comforts of later versions of AutoSite, like multiple template support,
+were not yet introduced, so caution when using it.
+
+0AutoSite '98 changelog	98/changelog.txt
+1AutoSite '98 binaries	98/bin/
+1AutoSite '98 source (Unlicense)	98/src/
+hAutoSite '98 on GitHub (HTTP)	URL:http://github.com/dotcomboom/AutoSite-98

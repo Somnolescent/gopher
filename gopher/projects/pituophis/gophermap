@@ -1,0 +1,32 @@
+1< Back to gopher.somnolescent.net	../../
+
+==== PITUOPHIS AND GOPHEW =============================================
+0About Pituophis and Gophew (for non-compliant clients)	pituophis.info
+
+Pituophis is a full Gopher library written in Python 3. Powerful and
+flexible, Pituophis can request and parse data over the Gopher protocol
+or serve it out if desired. It supports Gopher over TLS, arbitrary
+ports, gophermap parsing, Bucktooth-like globbing, type guessing, and
+gophertags, and requires minimal dependencies.
+
+Gophew is a Python 3 Gopher crawler and search-enabled server that runs
+atop Pituophis. Gophew consists of two scripts, a customizable crawler
+script that generates an index of selectors in JSON, and Gophew, a
+frontend for Pituophis with a special handler for requests to
+"/search". (Gophew can be used to crawl Gopherspace as a whole, but due
+to the stringent limits server owners often put on bot activity, it's
+not recommended. Be respectful.)
+
+Somnolescent's server acts as a working demo of Gophew and Pituophis
+run in tandem. Try searching for, say, "Astraware", or "Colton".
+
+==== PITUOPHIS ========================================================
+0Pituophis changelog	pituophis-changelog.txt
+1Pituophis source (BSD 2-Clause License)	src/
+hPituophis on GitHub (HTTP)	URL:https://github.com/dotcomboom/Pituophis
+
+==== GOPHEW ===========================================================
+7Give searching a try!	/search	gopher.somnolescent.net	70
+9Gophew's server script	gophew.py
+9Gophew's crawler script	crawler.py
+hGophew on GitHub (HTTP)	URL:https://github.com/dotcomboom/Gophew

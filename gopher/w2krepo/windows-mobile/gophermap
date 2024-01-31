@@ -1,10 +1,9 @@
 1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
 1< Back to w2krepo	../
 
-w2krepo on Gopher
-Windows Mobile
---------------------------------------------------------------
+==== W2KREPO ON GOPHER (WINDOWS MOBILE) ===============================
 1Windows Mobile SDKs	sdks/
+
 9ActiveSync 4.5	ActiveSync 4.5.msi
 9EbIRC 1.2 (Non-touchscreen port)	EbIRC_AppOnly_dcb_Standard.CAB
 9Esmertec Jbed, J2ME Java VM	Esmertec Jbed 20090217.5.1R2.cab

@@ -1,22 +1,28 @@
 1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
 1< Back to w2krepo	../
 
-w2krepo on Gopher
-Audio
---------------------------------------------------------------
+==== W2KREPO ON GOPHER (AUDIO) ========================================
+9BladeEnc (command-line MP3 encoder)	BladeEnc060.exe
+9Cool Edit 2000	coolpro11.exe
 5FruityLoops 1.0	1.0.0_fruityloops1-0.zip
 9FruityLoops 3.0	3.0_fruityloops3_demo_install.exe
 9FL Studio 4.1.0	4.1.0_flstudio410_install.exe
-9Microsoft DirectMusic Producer	dx90_directmusicproducer.exe
 9K-Lite Codec Pack 7.10 (needs DirectX 9.0c)	K-Lite_Codec_Pack_710_Full.exe
+5LAME 3.99.5 (VC6 build, 2012)	lame3.99.5_vc6.zip
+9Microsoft DirectMusic Producer	dx90_directmusicproducer.exe
+9MidiPlay 2.1056	MidiPlay_2.1056.exe
+5mp3guessenc 0.27.5 (MP3 encoder/encoding analyzer)	mp3guessenc-0.27.5-win32.zip
 9MusicMatch Jukebox 10	mmatch10004033.exe
 9MusicMatch Jukebox 7.5	mmatch75.exe
+9MusicMatch Jukebox 8.2	musicmatch82.exe
 9MusicMatch Jukebox 9.0	mmatch90.exe
 9Microsoft Music Producer Beta (1996)	MS Music Producer.zip
-9MusicMatch Jukebox 8.2	musicmatch82.exe
 9Shoutcast DSP 1.9.0	shoutcast-dsp-1-9-0-windows.exe
+9Streamripper for Winamp 1.64.6	streamripper-windows-installer-1.64.6.exe
+5Winamp 2.91	winamp291_full.zip
 5Winamp 2.95	winamp295.zip
 9Winamp 5.1	winamp51.exe
+5Xing MP3 Encoder	xing-MP3EN15.zip
 
 Files in this repo available over HTTP only:
 hflstudio_7.0.2_RC2.exe	URL:http://w2krepo.somnolescent.net/Audio/flstudio_7.0.2_RC2.exe

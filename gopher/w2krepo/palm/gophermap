@@ -1,9 +1,7 @@
 1<< Back to gopher.somnolescent.net	/	gopher.somnolescent.net	70
 1< Back to w2krepo	../
 
-w2krepo on Gopher
-Palm
---------------------------------------------------------------
+==== W2KREPO ON GOPHER (PALM) =========================================
 9AvantGo Integrated Client 3.3 Setup	AGCEIntegratedClientSetup.exe
 9AvantGo Client 6.5.216 Setup	AvantGo_PalmEN.exe
 9Documents to Go Installer	documentstogopre11000-en.exe
@@ -19,5 +17,4 @@ Files in this repo available over HTTP only:
 hPalm Desktop 6.2.2	URL:http://w2krepo.somnolescent.net/Palm/PalmDesktop-6.2.2.zip
 
 Looking for more? Check out PalmDB:
-hPalmDB	URL:http://palmdb.net/
-hPalmDB (lite)	URL:http://lite.palmdb.net/file/
+hPalmDB (lite) (HTTP)	URL:http://lite.palmdb.net/file/

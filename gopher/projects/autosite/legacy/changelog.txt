@@ -1,0 +1,23 @@
+AutoSite Legacy version history:
+
+1.4 (January 12, 2024):
+This release improves parity with AutoSite's Apricot engine. Sites that have
+been made in that version of the program should now build correctly under
+AutoSite Legacy.
+
+   + modified attribute [#modified#] has been added. By default, the modified
+   date is displayed in YYYY-MM-DD format, but this can be adjusted at build
+   time with --modified. strftime format is followed, see here for a reference
+   or check --help.
+   + -s or --silent is now the preferred option for building without console
+   output (-q still works)
+   + Special attributes such as modified and root are set before user-defined
+   ones. This means they can be overridden if necessary.
+   - The pages/ directory is now used, rather than in/. (Keep this in mind
+   when compiling old sites!)
+   - Conditional text has been reworked such that checking for emptiness now
+   works as it does in Apricot.
+
+1.3 (October 20, 2019):
+This is a Python 3 parity release that adds CommonMark support and template
+caching.

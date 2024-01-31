@@ -1,0 +1,45 @@
+                           _    ____   ___  _   _ _____
+                          / \  | __ ) / _ \| | | |_   _|
+                         / _ \ |  _ \| | | | | | | | |
+                        / ___ \| |_) | |_| | |_| | | |
+                       /_/   \_\____/ \___/ \___/  |_|
+
+                ____ ___ _____ _   _  ___  ____  _   _ ___ ____
+               |  _ \_ _|_   _| | | |/ _ \|  _ \| | | |_ _/ ___|
+               | |_) | |  | | | | | | | | | |_) | |_| || |\___ \
+               |  __/| |  | | | |_| | |_| |  __/|  _  || | ___) |
+               |_|  |___| |_|  \___/ \___/|_|   |_| |_|___|____/
+
+                                       _
+                                     _| |_
+                                    |_   _|
+                                      |_|
+
+                    ____  ___  ____  _   _ _______        __
+                   / ___|/ _ \|  _ \| | | | ____\ \      / /
+                  | |  _| | | | |_) | |_| |  _|  \ \ /\ / /
+                  | |_| | |_| |  __/|  _  | |___  \ V  V /
+                   \____|\___/|_|   |_| |_|_____|  \_/\_/
+
+===============================================================================
+
+Pituophis is a full Gopher library written in Python 3. Powerful and flexible,
+Pituophis can request and parse data over the Gopher protocol or serve it out
+if desired. It supports Gopher over TLS, arbitrary ports, gophermap parsing,
+Bucktooth-like globbing, type guessing, and gophertags, and requires minimal
+dependencies. Somnolescent's Gopher server is powered by Pituophis.
+
+To demonstrate its client capabilities, TreeGopher is packed in with recent
+versions of Pituophis. TreeGopher also acts as a proof of concept for dcb's
+ideal Gopher client, featuring such things as a tree view and inline display
+of text and images.
+
+Gophew is a Python 3 Gopher crawler and search-enabled server that runs atop
+Pituophis. Gophew consists of two scripts, a customizable crawler script that
+generates an index of selectors in JSON, and Gophew, a frontend for
+Pituophis with a special handler for requests to "/search". (Gophew can be
+used to crawl Gopherspace as a whole, but due to the stringent limits server
+owners often put on bot activity, it's not recommended. Be respectful.)
+
+Somnolescent's server acts as a working demo of Gophew and Pituophis run in
+tandem. Try searching for, say, "Astraware", or "Colton".
