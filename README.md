@@ -1,5 +1,5 @@
 # gopher.somnolescent.net
-This is most of the setup for [our Gopher server](http://en.wikipedia.org/wiki/Gopher_(protocol)) at gopher.somnolescent.net (gopher://gopher.somnolescent.net for browsers with Gopher support, [proxy link](http://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.somnolescent.net)). We run using our own Python 3-based server package called [Pituophis](http://github.com/dotcomboom/Pituophis), which isn't included in this repo (see below). This repo also contains the code for our homebrew Gopher search solution Gophew, which Pituophis is run through to allow searching across the entirety of our server.
+This is most of the setup for [our Gopher server](http://en.wikipedia.org/wiki/Gopher_(protocol)) at gopher.somnolescent.net ([proxy link](http://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.somnolescent.net)). We run using our own Python 3-based server package called [Pituophis](http://github.com/dotcomboom/Pituophis), which isn't included in this repo (see below). This repo also contains the code for our homebrew Gopher search solution Gophew, which Pituophis is run through to allow searching across the entirety of our server.
 
 ## Guide to files
 - **gopher directory:** Contains all Gophermaps and files being served.
