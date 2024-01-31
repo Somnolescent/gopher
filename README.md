@@ -7,5 +7,5 @@ This is most of the setup for [our Gopher server](http://en.wikipedia.org/wiki/G
 - **serverstart.py:** Gets a Gopher server running (Pituophis) and intercepts and facilitates all itemtype 7 searches (Gophew). Pituophis can be started without Gophew, though obviously without itemtype 7 handling.
 
 ## What's not included
-- **SomnolCCSO:** The CCSO daemon runs separate to the Gopher server. The database is excluded for the same reason, and also because you doing your own searches to find out what's inside is more fun than me giving you the list.
+- **SomnolCCSO:** The CCSO daemon runs separate to the Gopher server. You can get it set up for your server [by visiting its repo](http://github.com/Somnolescent/somnolccso). The database is excluded for the same reason, and also because you doing your own searches to find out what's inside is more fun than me giving you the list.
 - **Pituophis library:** Omitted for redundancy reasons. You can pull the latest version of Pituophis from [its own repo](http://github.com/dotcomboom/Pituophis) or through PyPi, whatever works best for your setup.
