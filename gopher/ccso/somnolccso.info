@@ -65,8 +65,15 @@ the next section. These include older browsers like Netscape and Mosaic,
 whichsend all entered text as query commands, a quirk I'll talk about in the
 next section.
 
-Finally, telnet can access CCSO, if you want something raw and dirty. telnet
-can use all available CCSO commands.
+telnet can access CCSO, if you want something raw and dirty. telnet can use
+all available CCSO commands.
+
+Oh, and of course! The actual ph client that was officially used with CCSO now
+works with our server. Much thanks to Michael Lazar of mozz.us for testing
+that and submitting patches to get our server working with it. Here's some
+places you can find ph proper, or standalone third-party clients:
+gopher://mozz.us:70/1/ccso-source
+http://github.com/michael-lazar/ccso-nameserver
 
 The server can be found at gopher.somnolescent.net:105, or you can use the
 selector in the SomnolCCSO menu.
